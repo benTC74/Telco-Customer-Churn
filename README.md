@@ -1,10 +1,10 @@
 # Telco-Customer-Churn
 
-Goal:
-To create a XG Boost prediction model for customer churning for a telco company.
+Goal: <br />
+To create a XG Boost prediction model for customer churning for a telco company. <br />
 
-Dataset:
-From Kaggle - https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
+Dataset: <br />
+From Kaggle - https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data <br />
 
 Process:
 - Clean the dataset with missing values and set them to 0.
